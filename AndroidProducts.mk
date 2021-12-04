@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_venus.mk
+    $(LOCAL_DIR)/twrp_star.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_venus-user \
-    twrp_venus-userdebug \
-    twrp_venus-eng
+    twrp_star-user \
+    twrp_star-userdebug \
+    twrp_star-eng
